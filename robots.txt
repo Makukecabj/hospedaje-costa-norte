@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hospedaje-costa-norte.vercel.app/sitemap.xml

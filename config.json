@@ -1,0 +1,452 @@
+{
+  "business": {
+    "name": "Hospedaje Costa Norte",
+    "short_name": "Hospedaje Costa Norte",
+    "tagline": "Hospedaje Costa Norte · Perú",
+    "description": "Un hostel con onda en Perú. Conocé Hospedaje Costa Norte.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Perú · Au. Panamericana N 212",
+    "title_line1": "Bienvenido a",
+    "title_em": "Hospedaje Costa Norte",
+    "title_line2": "",
+    "subtitle": "Tu refugio en Perú después de recorrer todo el día."
+  },
+  "location": {
+    "address": "Au. Panamericana N 212, Máncora 20850, Perú",
+    "district": "Perú",
+    "city": "Perú",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "beach",
+    "map_query": "Au. Panamericana N 212, Máncora 20850, Perú, Perú",
+    "map_embed": "https://maps.google.com/maps?q=Au.+Panamericana+N+212%2C+M%C3%A1ncora+20850%2C+Per%C3%BA%2C+Per%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Perú. Todo lo que querés conocer queda cerca.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/54951949202150",
+    "phone": "+54951949202150",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Hospedaje+Costa+Norte/data=!4m10!3m9!1s0x90369135d6549733:0x1ab8e3687300fd25!5m2!4m1!1i2!8m2!3d-4.1071705!4d-81.0584815!16s%2Fg%2F11h1y575jg!19sChIJM5dU1jWRNpARJf0Ac2jjuBo?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Hospedaje+Costa+Norte/data=!4m10!3m9!1s0x90369135d6549733:0x1ab8e3687300fd25!5m2!4m1!1i2!8m2!3d-4.1071705!4d-81.0584815!16s%2Fg%2F11h1y575jg!19sChIJM5dU1jWRNpARJf0Ac2jjuBo?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Nuestra historia",
+    "title": "Hospedaje Costa Norte, tu base en Perú.",
+    "paragraphs": [
+      "Te damos la bienvenida a Hospedaje Costa Norte, en el corazón de Perú. Nuestro hostel tiene pileta, parrilla, cocina completa y espacios para relajarte. Somos un hostel chico con mucha onda, donde cada viajero es bienvenido."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Mensajes rápidos, respuestas claras",
+    "Reservá directo con nosotros",
+    "Conocemos cada rincón de la zona"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Dormí como en casa",
+      "description": "Colchones buenos, sabanas limpias, olvidate del insomnio.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi sin vueltas",
+      "description": "Te conectás y funciona, así de simple.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Ubicación top",
+      "description": "Todo lo que querés ver queda cerca.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    },
+    {
+      "author": "Nicolás S.",
+      "rating": 5,
+      "text": "Perfecto para desconectar. Tranquilo, limpio y con espacios para compartir con otros viajeros."
+    },
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿La zona es segura?",
+      "answer": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+    },
+    {
+      "question": "¿Hay calefacción?",
+      "answer": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+    },
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Desayuno incluido?",
+      "answer": "Depende la época, escribinos y te confirmamos."
+    },
+    {
+      "question": "¿Está cerca del mar?",
+      "answer": "Escribinos y te contamos exactamente cuánto hay hasta la playa desde acá."
+    }
+  ],
+  "footer": {
+    "description": "Hospedaje Costa Norte",
+    "copyright": "© 2026 Hospedaje Costa Norte. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Hospedaje Costa Norte",
+        "short_name": "Hospedaje Costa Norte",
+        "tagline": "Hospedaje Costa Norte · Accommodation",
+        "description": "A cool hostel in Perú. Meet Hospedaje Costa Norte.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Perú · Au. Panamericana N 212",
+        "title_line1": "Stay at",
+        "title_em": "Hospedaje Costa Norte",
+        "title_line2": "",
+        "subtitle": "Your Perú hideaway after a day of exploring."
+      },
+      "about": {
+        "eyebrow": "Who we are",
+        "title": "Everything about Hospedaje Costa Norte.",
+        "paragraphs": [
+          "Come to Hospedaje Costa Norte and discover Perú from a cool hostel. We have pool, BBQ, equipped kitchen, WiFi and everything you need to feel at home."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Perú. Close to the best attractions."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there a kitchen to use?",
+          "answer": "Yes, a full kitchen so you can cook whatever you want."
+        },
+        {
+          "question": "Is there air conditioning?",
+          "answer": "Yes, you'll stay cool in summer no problem."
+        },
+        {
+          "question": "Is the area safe?",
+          "answer": "Yes, it's a quiet neighborhood. Travelers recommend it."
+        },
+        {
+          "question": "Can I pay by card?",
+          "answer": "Ask us, we have several payment options to make it easy for you."
+        },
+        {
+          "question": "Is it close to the beach?",
+          "answer": "Message us and we'll tell you exactly how far the beach is from here."
+        }
+      ],
+      "trust_bar": [
+        "Quick answers whenever you need",
+        "No middlemen, no surprises",
+        "We've been travelers too, we get it"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Anna M.",
+          "rating": 5,
+          "text": "Beautiful place, close to everything. The hosts helped us with everything we needed."
+        },
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        }
+      ],
+      "footer": {
+        "description": "Hospedaje Costa Norte",
+        "copyright": "© 2026 Hospedaje Costa Norte. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Hospedaje Costa Norte",
+        "description": "Tu base en Hospedaje Costa Norte para explorar Perú.",
+        "url": "",
+        "telephone": "+54951949202150",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Hospedaje+Costa+Norte/data=!4m10!3m9!1s0x90369135d6549733:0x1ab8e3687300fd25!5m2!4m1!1i2!8m2!3d-4.1071705!4d-81.0584815!16s%2Fg%2F11h1y575jg!19sChIJM5dU1jWRNpARJf0Ac2jjuBo?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Au. Panamericana N 212, Máncora 20850, Perú",
+          "addressLocality": "Perú",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Dormí como en casa",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi sin vueltas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Ubicación top",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿La zona es segura?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay calefacción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Desayuno incluido?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende la época, escribinos y te confirmamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del mar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te contamos exactamente cuánto hay hasta la playa desde acá."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
